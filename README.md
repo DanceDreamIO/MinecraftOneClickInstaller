@@ -1,0 +1,2 @@
+# MinecraftOneClickInstaller
+我的世界一键安装器
